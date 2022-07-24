@@ -1,0 +1,11 @@
+.heading{
+    font-family: 'Papyrus';
+}
+
+body{
+    background-image: url('background.jpg');
+}
+
+#paragraph{
+    font-family: 'Courier New', Courier, monospace;
+}
